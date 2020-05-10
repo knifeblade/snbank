@@ -1,0 +1,9 @@
+banker1
+gentle123
+banker1@snb.com
+Adewale Seun
+
+username
+password
+email
+Full name
